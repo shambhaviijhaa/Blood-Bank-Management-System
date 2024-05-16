@@ -1,11 +1,11 @@
 # Blood Bank Management System
 
-##  Features 💬
+##  Features
 
 - It is an **Online Blood Bank Management System** which can facilitate you to contribute as a donor and also manage the entire application.
 - It has 2 modes of operation as **1) ADMIN 2) USER**
 
-## ADMIN Mode 🔭
+## ADMIN Mode
 
 This mode makes you as an admin and you can perform various activities like...
 - Adding a Blood Donor
@@ -16,7 +16,7 @@ This mode makes you as an admin and you can perform various activities like...
 - Accept or Reject the Blood Request given by the users/patients
 - Get various details on the admin dashboard as various blood groups and number of units of blood available per blood group.
 
-## USER Mode 😄
+## USER Mode
 
 This mode makes you as a user and you can perform various activities like...
 - User can register for a new account in-order to login to the portal
