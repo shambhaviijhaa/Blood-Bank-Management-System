@@ -3,6 +3,7 @@ import { ActivatedRoute, Router } from '@angular/router';
 import { Observable } from 'rxjs';
 import { Donor } from '../donor';
 import { DonorService } from '../donor.service';
+import { map } from 'rxjs/operators';
 
 @Component({
   selector: 'app-donorlist',
